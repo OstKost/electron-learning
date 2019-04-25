@@ -1,3 +1,6 @@
+# Dist app build
+dist/
+
 # Logs
 logs
 *.log

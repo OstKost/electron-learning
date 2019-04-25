@@ -1,4 +1,4 @@
 {
-  "private": 40000,
+  "private": 45748,
   "shared": 32
 }
