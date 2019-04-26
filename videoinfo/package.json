@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "electron": "^4.1.4"
+    "electron": "^4.1.4",
+    "fluent-ffmpeg": "^2.1.2"
   },
   "scripts": {
     "electron": "electron index.js"
